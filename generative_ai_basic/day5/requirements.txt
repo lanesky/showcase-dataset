@@ -1,0 +1,3 @@
+openai
+numpy
+llama_index
